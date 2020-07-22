@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.David</title>
+  <icon>https://www.gravatar.com/avatar/da35f26d08248bdbea2d90e531cffd07</icon>
+  <subtitle>Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://mkids.top/"/>
+  <updated>2020-07-18T12:07:18.312Z</updated>
+  <id>https://mkids.top/</id>
+  
+  <author>
+    <name>Mr.David</name>
+    <email>91pe.en@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>广告过滤地址收集</title>
+    <link href="https://mkids.top/posts/sk01.html/"/>
+    <id>https://mkids.top/posts/sk01.html/</id>
+    <published>2020-07-09T01:30:00.000Z</published>
+    <updated>2020-07-18T12:07:18.312Z</updated>
+    
+    <summary type="html">
+    
+      国内国外广告过滤地址收集，支持Adbyby和AdGuard Home
+    
+    </summary>
+    
+    
+      <category term="软路由" scheme="https://mkids.top/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    
+    
+      <category term="软路由" scheme="https://mkids.top/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何备份 OpenWrt 固件</title>
+    <link href="https://mkids.top/posts/sk04.html/"/>
+    <id>https://mkids.top/posts/sk04.html/</id>
+    <published>2020-07-01T01:30:00.000Z</published>
+    <updated>2020-07-18T12:07:18.340Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;如果路由器搞挂了，完全无法启动，那么你需要重刷固件并且恢复，按照这个来备份：&quot;&gt;&lt;a href=&quot;#如果路由器搞挂了，完全无法启动，那么你需要重刷固件并且恢复，按照这个来备份：&quot; class=&quot;headerlink&quot; title=&quot;如果路由器搞挂了，完全无法启动，
+      
+    
+    </summary>
+    
+    
+      <category term="软路由" scheme="https://mkids.top/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    
+    
+      <category term="软路由" scheme="https://mkids.top/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派3B+安装RetroPie</title>
+    <link href="https://mkids.top/posts/sk11.html/"/>
+    <id>https://mkids.top/posts/sk11.html/</id>
+    <published>2020-05-06T07:00:53.000Z</published>
+    <updated>2020-07-18T12:07:18.414Z</updated>
+    
+    <summary type="html">
+    
+      树莓派3B+安装RetroPie
+    
+    </summary>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/categories/raspi/"/>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/tags/raspi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派3B+ 安装CUPS搭建打印机服务器</title>
+    <link href="https://mkids.top/posts/sk05.html/"/>
+    <id>https://mkids.top/posts/sk05.html/</id>
+    <published>2019-11-03T05:30:00.000Z</published>
+    <updated>2020-07-18T12:07:18.349Z</updated>
+    
+    <summary type="html">
+    
+      利用树莓派3B+连接USB打印机设置成网络打印机
+    
+    </summary>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/categories/raspi/"/>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/tags/raspi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo d 报错</title>
+    <link href="https://mkids.top/posts/sk03.html/"/>
+    <id>https://mkids.top/posts/sk03.html/</id>
+    <published>2019-10-17T05:10:19.000Z</published>
+    <updated>2020-07-18T12:07:18.332Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;解决hexo d出现The file will have its original line endings in your working directory  &lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cla
+      
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://mkids.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="教程" scheme="https://mkids.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>影视资源收集</title>
+    <link href="https://mkids.top/posts/sk13.html/"/>
+    <id>https://mkids.top/posts/sk13.html/</id>
+    <published>2019-10-05T02:00:00.000Z</published>
+    <updated>2020-07-19T06:49:13.876Z</updated>
+    
+    <summary type="html">
+    
+      收集cms、资源采集站、解析接口等
+    
+    </summary>
+    
+    
+      <category term="资源" scheme="https://mkids.top/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="资源" scheme="https://mkids.top/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派3B+ 挂载NTFS硬盘</title>
+    <link href="https://mkids.top/posts/sk08.html/"/>
+    <id>https://mkids.top/posts/sk08.html/</id>
+    <published>2019-10-02T07:00:00.000Z</published>
+    <updated>2020-07-18T12:07:18.377Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;树莓派识别不了NTFS格式移动硬盘，必须安装ntfs-3g&lt;br&gt;官方网址：&lt;a href=&quot;http://www.tuxera.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.tuxera.com&lt;/a&gt;&lt;br&gt;文档手册：&lt;a href=&quot;http://www.tuxera.com/community/ntfs-3g-manual&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.tuxera.com/community/ntfs-3g-manual&lt;/a&gt;&lt;br&gt;下载地址：&lt;a href=&quot;http://www.tuxera.com/community/ntfs-3g-download&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.tuxera.com/community/ntfs-3g-download&lt;/a&gt;  &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/categories/raspi/"/>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/tags/raspi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派3B+ 安装Aria2</title>
+    <link href="https://mkids.top/posts/sk06.html/"/>
+    <id>https://mkids.top/posts/sk06.html/</id>
+    <published>2019-09-27T06:30:00.000Z</published>
+    <updated>2020-07-18T12:07:18.357Z</updated>
+    
+    <summary type="html">
+    
+      aria2就不多介绍了,高速下载百度网盘资源,代替迅雷远程下载等
+    
+    </summary>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/categories/raspi/"/>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/tags/raspi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派3B+ Raspbian系统安装 Node.js</title>
+    <link href="https://mkids.top/posts/sk07.html/"/>
+    <id>https://mkids.top/posts/sk07.html/</id>
+    <published>2019-08-22T02:40:00.000Z</published>
+    <updated>2020-07-18T12:07:18.367Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;概述&lt;br&gt;目前，Node.js 已经更新到12.9.0，raspbian 内的 apt 只能安装到非常老的版本&lt;br&gt;因此，本文主要介绍完成新版 Node.js 的安装。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/categories/raspi/"/>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/tags/raspi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Agency recommended</title>
+    <link href="https://mkids.top/posts/sk12.html/"/>
+    <id>https://mkids.top/posts/sk12.html/</id>
+    <published>2019-07-27T01:30:00.000Z</published>
+    <updated>2020-07-19T02:40:22.513Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;v2ray-推荐&quot;&gt;&lt;a href=&quot;#v2ray-推荐&quot; class=&quot;headerlink&quot; title=&quot;v2ray(推荐)&quot;&gt;&lt;/a&gt;v2ray(推荐)&lt;/h3&gt;&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style=&quot;color:#ed1941;&quot;&gt;V2ra
+      
+    
+    </summary>
+    
+    
+      <category term="home" scheme="https://mkids.top/categories/home/"/>
+    
+    
+      <category term="home" scheme="https://mkids.top/tags/home/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>启用Chrome未上架插件 修改组策略或注册表</title>
+    <link href="https://mkids.top/posts/sk02.html/"/>
+    <id>https://mkids.top/posts/sk02.html/</id>
+    <published>2019-06-24T05:10:00.000Z</published>
+    <updated>2020-07-18T12:07:18.323Z</updated>
+    
+    <summary type="html">
+    
+      Windows 家庭版的朋友，没有组策略编辑器的话，请尝试修改注册表的方式。
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://mkids.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="教程" scheme="https://mkids.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派root登陆winscp</title>
+    <link href="https://mkids.top/posts/sk10.html/"/>
+    <id>https://mkids.top/posts/sk10.html/</id>
+    <published>2019-01-09T13:29:48.000Z</published>
+    <updated>2020-07-18T12:07:18.404Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;树莓派root登陆winscp&quot;&gt;&lt;a href=&quot;#树莓派root登陆winscp&quot; class=&quot;headerlink&quot; title=&quot;树莓派root登陆winscp&quot;&gt;&lt;/a&gt;树莓派root登陆winscp&lt;/h3&gt;&lt;p&gt;使用winscp登陆树莓派传文件，发
+      
+    
+    </summary>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/categories/raspi/"/>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/tags/raspi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派3B+ 系统安装与SSH登录以及远程桌面配置(无显示器)</title>
+    <link href="https://mkids.top/posts/sk09.html/"/>
+    <id>https://mkids.top/posts/sk09.html/</id>
+    <published>2018-12-23T16:14:53.000Z</published>
+    <updated>2020-07-18T12:07:18.395Z</updated>
+    
+    <summary type="html">
+    
+      树莓派3B+ 系统安装与SSH登录以及远程桌面配置(无显示器)
+    
+    </summary>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/categories/raspi/"/>
+    
+    
+      <category term="raspi" scheme="https://mkids.top/tags/raspi/"/>
+    
+  </entry>
+  
+</feed>
