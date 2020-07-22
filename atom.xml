@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mr.David</title>
-  <icon>https://www.gravatar.com/avatar/da35f26d08248bdbea2d90e531cffd07</icon>
+  <icon>https://www.gravatar.com/avatar/1ba3cebef8282b010e01267f312a0346</icon>
   <subtitle>Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>Mr.David</name>
-    <email>91pe.en@gmail.com</email>
+    <email>svipkid@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
