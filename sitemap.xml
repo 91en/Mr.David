@@ -9,20 +9,6 @@
   </url>
   
   <url>
-    <loc>https://mkids.top/posts/sk01.html/</loc>
-    
-    <lastmod>2020-08-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mkids.top/posts/sk02.html/</loc>
-    
-    <lastmod>2020-08-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://mkids.top/posts/sk12.html/</loc>
     
     <lastmod>2020-08-30</lastmod>
@@ -72,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://mkids.top/posts/sk03.html/</loc>
-    
-    <lastmod>2020-08-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://mkids.top/posts/sk04.html/</loc>
     
     <lastmod>2020-08-30</lastmod>
@@ -86,7 +65,28 @@
   </url>
   
   <url>
+    <loc>https://mkids.top/posts/sk03.html/</loc>
+    
+    <lastmod>2020-08-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mkids.top/posts/sk05.html/</loc>
+    
+    <lastmod>2020-08-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mkids.top/posts/sk01.html/</loc>
+    
+    <lastmod>2020-08-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mkids.top/posts/sk02.html/</loc>
     
     <lastmod>2020-08-30</lastmod>
     
@@ -158,14 +158,14 @@
 
   
   <url>
-    <loc>https://mkids.top/tags/raspi/</loc>
+    <loc>https://mkids.top/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
     <lastmod>2020-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://mkids.top/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
+    <loc>https://mkids.top/tags/raspi/</loc>
     <lastmod>2020-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -188,14 +188,14 @@
 
   
   <url>
-    <loc>https://mkids.top/categories/raspi/</loc>
+    <loc>https://mkids.top/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
     <lastmod>2020-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://mkids.top/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
+    <loc>https://mkids.top/categories/raspi/</loc>
     <lastmod>2020-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
