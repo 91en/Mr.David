@@ -1,6 +1,8 @@
+/* 头像下面的aside:按钮设置圆角 */
 #card-info-btn {
   border-radius: 5px;
 }
-.btn-beautify.orange {
+/* btn-beautify按钮设置圆角 */
+.btn-beautify {
   border-radius: 5px;
 }
