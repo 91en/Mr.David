@@ -11,4 +11,5 @@
   border-style:solid;
   border-width:1px;
   border-radius: 5px;
+  box-shadow:0 2px 20px var(--primary-color,#49b1f5);
 }
