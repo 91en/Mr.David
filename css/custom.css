@@ -2,7 +2,13 @@
 #card-info-btn {
   border-radius: 5px;
 }
-/* btn-beautify按钮设置圆角 */
+/* 全局按钮设置圆角 */
 .btn-beautify {
+  border-radius: 5px;
+}
+/* 友链页面设置边框和圆角 */
+.flink-list-item {
+  border-style:solid;
+  border-width:1px;
   border-radius: 5px;
 }
