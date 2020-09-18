@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mkids.top/game/catch-cat/index.html</loc>
+    <loc>https://mkids.top/music/index.html</loc>
     
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     
   </url>
   
   <url>
     <loc>https://mkids.top/game/index.html</loc>
     
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mkids.top/game/sudo/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mkids.top/game/rex/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mkids.top/game/catch-cat/index.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
     
   </url>
   
@@ -26,13 +47,6 @@
     <loc>https://mkids.top/link/index.html</loc>
     
     <lastmod>2020-09-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mkids.top/music/index.html</loc>
-    
-    <lastmod>2020-09-13</lastmod>
     
   </url>
   
@@ -172,7 +186,7 @@
 
   <url>
     <loc>https://mkids.top/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -180,28 +194,28 @@
   
   <url>
     <loc>https://mkids.top/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://mkids.top/tags/raspi/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://mkids.top/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://mkids.top/tags/%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -210,28 +224,28 @@
   
   <url>
     <loc>https://mkids.top/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://mkids.top/categories/raspi/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://mkids.top/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://mkids.top/categories/%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
