@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>树莓派3B+ 挂载NTFS硬盘 | Mr.David</title><meta name="description" content="树莓派识别不了NTFS格式移动硬盘，必须安装ntfs-3g官方网址：http:&#x2F;&#x2F;www.tuxera.com文档手册：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-manual下载地址：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-download      解压安装NTFS-3G，使用如下命令 sudo apt-get ins"><meta name="keywords" content="raspi"><meta name="author" content="Mr.David,svipkid@gmail.com"><meta name="copyright" content="Mr.David"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://mkids.top/posts/sk08.html/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta property="og:type" content="article"><meta property="og:title" content="树莓派3B+ 挂载NTFS硬盘"><meta property="og:url" content="https://mkids.top/posts/sk08.html/"><meta property="og:site_name" content="Mr.David"><meta property="og:description" content="树莓派识别不了NTFS格式移动硬盘，必须安装ntfs-3g官方网址：http:&#x2F;&#x2F;www.tuxera.com文档手册：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-manual下载地址：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-download      解压安装NTFS-3G，使用如下命令 sudo apt-get ins"><meta property="og:image" content="http://mrdavid.test.upcdn.net/CDN/img/sk08.jpg"><meta property="article:published_time" content="2019-10-02T07:00:00.000Z"><meta property="article:modified_time" content="2020-09-19T03:38:37.901Z"><meta name="twitter:card" content="summary"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css"><script>var GLOBAL_CONFIG = { 
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>树莓派3B+ 挂载NTFS硬盘 | Mr.David</title><meta name="description" content="树莓派识别不了NTFS格式移动硬盘，必须安装ntfs-3g官方网址：http:&#x2F;&#x2F;www.tuxera.com文档手册：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-manual下载地址：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-download      解压安装NTFS-3G，使用如下命令 1sudo apt-get in"><meta name="keywords" content="raspi"><meta name="author" content="Mr.David,svipkid@gmail.com"><meta name="copyright" content="Mr.David"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://mkids.top/posts/sk08.html/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta property="og:type" content="article"><meta property="og:title" content="树莓派3B+ 挂载NTFS硬盘"><meta property="og:url" content="https://mkids.top/posts/sk08.html/"><meta property="og:site_name" content="Mr.David"><meta property="og:description" content="树莓派识别不了NTFS格式移动硬盘，必须安装ntfs-3g官方网址：http:&#x2F;&#x2F;www.tuxera.com文档手册：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-manual下载地址：http:&#x2F;&#x2F;www.tuxera.com&#x2F;community&#x2F;ntfs-3g-download      解压安装NTFS-3G，使用如下命令 1sudo apt-get in"><meta property="og:image" content="http://mrdavid.test.upcdn.net/CDN/img/sk08.jpg"><meta property="article:published_time" content="2019-10-02T07:00:00.000Z"><meta property="article:modified_time" content="2020-09-19T03:38:37.901Z"><meta name="twitter:card" content="summary"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css"><script>var GLOBAL_CONFIG = { 
   root: '/',
   hexoversion: '5.2.0',
   algolia: undefined,
@@ -124,27 +124,27 @@ if (autoChangeMode === '1') {
 
 <ol>
 <li><p>解压安装NTFS-3G，使用如下命令</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">sudo apt-get install ntfs-3g</span><br></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install ntfs-3g</span><br></pre></td></tr></table></figure>
 </li>
 <li><p>配置挂载NTFS格式的移动硬盘<br>获取NTFS分区的信息</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">sudo fdisk -l | grep NTFS</span><br></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo fdisk -l | grep NTFS</span><br></pre></td></tr></table></figure>
 <p>获得如下信息<br>[root@pi]# sudo fdisk -l | grep NTFS<br>/dev/sda1 * 1 244 1955776+ 7 HPFS/NTFS  
 　　</p>
 </li>
 <li><p>设置挂载点<br>创建挂载目录，比如我挂载在/mnt/usbhd1</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> /mnt  </span><br><span class="line">sudo mkdir usbhd1  </span><br></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /mnt  </span><br><span class="line">sudo mkdir usbhd1  </span><br></pre></td></tr></table></figure>
 <p>挂载命令：<br>例如得到的NTFS分区信息为/dev/sda1，挂载点设置在/mnt//usbhd1下  </p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">sudo mount -t ntfs-3g /dev/sda1 /mnt/usbhd1  </span><br></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo mount -t ntfs-3g /dev/sda1 /mnt/usbhd1  </span><br></pre></td></tr></table></figure>
 </li>
 <li><p>开机自动挂载<br>编辑/etc/fstab</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">sudo vim /etc/fstab</span><br></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo vim /etc/fstab</span><br></pre></td></tr></table></figure>
 <p>在/etc/fstab最后一行添加</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;dev&#x2F;sda1 &#x2F;mnt&#x2F;usbhd1 ntfs-3g defaults,noexec,silent,umask&#x3D;0000 0 0,locale&#x3D;zh_CN.utf8</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;dev&#x2F;sda1 &#x2F;mnt&#x2F;usbhd1 ntfs-3g defaults,noexec,silent,umask&#x3D;0000 0 0,locale&#x3D;zh_CN.utf8</span><br></pre></td></tr></table></figure>
 <p>这样可以实现NTFS分区里中文名的显示<br>添加后，按 ESC，输入 :wq 保存即可  
 　　</p>
 </li>
 <li><p>卸载分区</p>
-<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">sudo umount /mnt/usbhd1</span><br></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo umount /mnt/usbhd1</span><br></pre></td></tr></table></figure>
 
 </li>
 </ol>
