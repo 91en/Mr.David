@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mkids.top/posts/sk14.html/</loc>
+    <loc>https://mkids.top/store/index.html</loc>
     
     <lastmod>2020-09-23</lastmod>
     
@@ -142,13 +142,6 @@
   </url>
   
   <url>
-    <loc>https://mkids.top/store/index.html</loc>
-    
-    <lastmod>2020-08-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://mkids.top/posts/sk11.html/</loc>
     
     <lastmod>2020-08-30</lastmod>
@@ -227,13 +220,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://mkids.top/tags/%E6%96%87%E5%8C%96/</loc>
-    <lastmod>2020-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
@@ -259,13 +245,6 @@
   
   <url>
     <loc>https://mkids.top/categories/%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2020-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mkids.top/categories/%E6%96%87%E5%8C%96/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
