@@ -178,6 +178,15 @@ template {
 [hidden] {
   display: none
 }
+
+body{cursor:url(https://cdn.jsdelivr.net/gh/svipkid/CDN@master/default.cur),default}
+.read-mode{font-size:17px}
+.read-mode #web_bg{background:#fdf6e3}
+a,button,img{cursor:url(https://cdn.jsdelivr.net/gh/svipkid/CDN@master/pointer.cur),default}
+video{width:100%}
+@font-face { font-family:MyFont;
+src: url(https://cdn.jsdelivr.net/gh/svipkid/CDN@master/webmo.woff2)}
+body{font-family:MyFont!important;}
 .limit-one-line,
 #aside_content .card-info .card-info-data > .card-info-data-item a .headline,
 #aside_content .card-archives ul.card-archive-list > .card-archive-list-item a span,
