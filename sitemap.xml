@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mkids.top/link/index.html</loc>
-    
-    <lastmod>2020-11-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://mkids.top/cheat/index.html</loc>
     
     <lastmod>2020-11-06</lastmod>
@@ -110,6 +103,13 @@
     <loc>https://mkids.top/store/index.html</loc>
     
     <lastmod>2020-10-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mkids.top/link/index.html</loc>
+    
+    <lastmod>2020-09-29</lastmod>
     
   </url>
   
