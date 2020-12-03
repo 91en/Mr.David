@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mkids.top/"/>
-  <updated>2020-10-23T03:28:02.886Z</updated>
+  <updated>2020-12-03T06:16:34.483Z</updated>
   <id>https://mkids.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Microsoft Store 安装</title>
+    <link href="https://mkids.top/posts/mrd014.html/"/>
+    <id>https://mkids.top/posts/mrd014.html/</id>
+    <published>2020-12-03T05:44:30.000Z</published>
+    <updated>2020-12-03T06:16:34.483Z</updated>
+    
+    <summary type="html">
+    
+      Microsoft Store 安装
+    
+    </summary>
+    
+    
+      <category term="Windows" scheme="https://mkids.top/categories/Windows/"/>
+    
+    
+      <category term="Windows" scheme="https://mkids.top/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
     <title>AdGuard Home设置</title>
     <link href="https://mkids.top/posts/mrd013.html/"/>
     <id>https://mkids.top/posts/mrd013.html/</id>
     <published>2020-09-01T01:30:00.000Z</published>
-    <updated>2020-10-23T03:28:02.886Z</updated>
+    <updated>2020-12-03T06:00:36.537Z</updated>
     
     <summary type="html">
     
@@ -42,7 +63,7 @@
     <link href="https://mkids.top/posts/mrd001.html/"/>
     <id>https://mkids.top/posts/mrd001.html/</id>
     <published>2020-07-09T01:30:00.000Z</published>
-    <updated>2020-10-23T03:28:02.883Z</updated>
+    <updated>2020-12-03T05:47:24.946Z</updated>
     
     <summary type="html">
     
