@@ -237,11 +237,11 @@
     <link href="https://mkids.top/posts/mrd007.html/"/>
     <id>https://mkids.top/posts/mrd007.html/</id>
     <published>2019-08-22T02:40:00.000Z</published>
-    <updated>2020-12-03T06:29:34.790Z</updated>
+    <updated>2020-12-12T03:57:55.997Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;概述&lt;br&gt;目前，Node.js 已经更新到12.9.0，raspbian 内的 apt 只能安装到非常老的版本&lt;br&gt;因此，本文主要介绍完成新版 Node.js 的安装。&lt;/p&gt;
+      &lt;p&gt;概述&lt;br&gt;目前，Node.js 已经更新到v15.4.0，raspbian 内的 apt 只能安装到非常老的版本&lt;br&gt;因此，本文主要介绍完成新版 Node.js 的安装。&lt;/p&gt;
     
     </summary>
     
