@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Docker版京东签到</title>
+      <link href="posts/mrd016.html/"/>
+      <url>posts/mrd016.html/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="docker版京东签到-镜像：shuye72-jd-base-gitee"><a href="#docker版京东签到-镜像：shuye72-jd-base-gitee" class="headerlink" title="docker版京东签到-镜像：shuye72/jd-base:gitee"></a>docker版京东签到-镜像：shuye72/jd-base:gitee</h4><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker run -dit --name jingdong -v /opt/docker/jd_scripts/config:/jd/config -v /opt/docker/jd_scripts/logs:/jd/<span class="built_in">log</span> -p 5678:5678 --restart always shuye72/jd-base:gitee</span><br></pre></td></tr></table></figure><p>默认账号:admin,默认密码:shuye72</p><ul><li>以上命令不可直接使用</li><li>请注意docker路径</li></ul><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Rclone挂载google drive团队盘</title>
       <link href="posts/mrd015.html/"/>
       <url>posts/mrd015.html/</url>
